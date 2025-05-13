@@ -63,4 +63,4 @@ I believe great frontend work is equal parts code, design thinking, and user emp
 ## 📬 Let's Connect
 
 
-- 📧 Email: [youremail@example.com](mailto:zougibe@gmail.com)
+- 📧 Email: [zougibe@gmail.com](mailto:zougibe@gmail.com)
